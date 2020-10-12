@@ -1,6 +1,6 @@
 # Changelog
 
-关于该项目的所有更行都会在该文件中记录。
+关于该项目的所有更新都会在该文件中记录。
 
 * 该格式基于 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 * 版本基于语义化版本 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -11,7 +11,7 @@
 
 ## [语义化版本号] - 日期
 
-## [1.0.0] - 2020-10-09
+## [0.1.0] - 2020-10-09
 
 ### Added
 
