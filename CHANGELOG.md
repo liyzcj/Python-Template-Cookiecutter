@@ -2,10 +2,10 @@
 
 ## [Unreleased]
 
-- None.
+- add install and extra requirements to `setup.py`.
 
 ## [0.1.1] - 2020-10-14
 
 ### Added
 
-- 测试时生成 Vscode 插件 Coverage Gutter 需要的文件 `cov.xml`。
+-  When test, generate `cov.xml` for Vscode Coverage Gutter plugin.
